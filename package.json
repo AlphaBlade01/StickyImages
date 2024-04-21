@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "electron": "^30.0.1"
+  },
+  "scripts": {
+    "start": "tsc && electron bin/app.js"
+  },
+  "dependencies": {
+    "electron-settings": "^4.0.3",
+    "guid-ts": "^1.1.2"
+  }
+}
